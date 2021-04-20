@@ -12,12 +12,12 @@ and How to Fix It: [Arxiv](https://arxiv.org/abs/2006.08195)
 
 > Implicitly defined, continuous, differentiable signal representations parameterized by neural networks have emerged as a powerful paradigm, offering many possible benefits over conventional representations. However, current network architectures for such implicit neural representations are incapable of modeling signals with fine detail, and fail to represent a signal's spatial and temporal derivatives, despite the fact that these are essential to many physical signals defined implicitly as the solution to partial differential equations. We propose to leverage periodic activation functions for implicit neural representations and demonstrate that these networks, dubbed sinusoidal representation networks or Sirens, are ideally suited for representing complex natural signals and their derivatives. We analyze Siren activation statistics to propose a principled initialization scheme and demonstrate the representation of images, wavefields, video, sound, and their derivatives. Further, we show how Sirens can be leveraged to solve challenging boundary value problems, such as particular Eikonal equations (yielding signed distance functions), the Poisson equation, and the Helmholtz and wave equations. Lastly, we combine Sirens with hypernetworks to learn priors over the space of Siren functions.
 
-## Summary of Activation Functions
+## Overview of Activation Functions
 <p align="center">
   <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_0.png" width=1000  alt="SILAB logo">
 </p>
 
-## Comparison of Snake and Siren
+## Comparison of Snake and SIREN
 <p align="center">
   <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_1.png" width=1000  alt="SILAB logo">
 </p>
