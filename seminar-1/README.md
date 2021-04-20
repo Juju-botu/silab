@@ -14,11 +14,11 @@ and How to Fix It: [Arxiv](https://arxiv.org/abs/2006.08195)
 
 ## Summary of Activation Functions
 <p align="center">
-  <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_0.png" width=800  alt="SILAB logo">
+  <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_0.png" width=1000  alt="SILAB logo">
 </p>
 
 ## Comparison of Snake and Siren
 <p align="center">
-  <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_1.png" width=800  alt="SILAB logo">
+  <img src="https://github.com/Juju-botu/silab/blob/master/seminar-1/images/screenshot_1.png" width=1000  alt="SILAB logo">
 </p>
 
